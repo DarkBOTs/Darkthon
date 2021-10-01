@@ -1,7 +1,0 @@
-OpenCC
-piIIow
-pyrogram
-TgCrypto
-ffmpeg-python
-youtube-dl
-wget
